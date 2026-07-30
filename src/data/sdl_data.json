@@ -2187,4 +2187,29 @@
     ],
     "start": 2026
   }
+  {
+    "id": "swiss_cat+",
+    "name": "Swiss Cat+",
+    "org": "EPFL, ETHZ",
+    "city": "Lausanne",
+    "country": "Switzerland",
+    "flag": "🇨🇭",
+    "lat": 46.52,
+    "lon": 6.57,
+    "tier": "academic",
+    "domain": "catalyst discovery",
+    "maturity": "operational",
+    "charact": "single-technique",
+    "ai": "strong",
+    "scale": "High throughput analytical platform (LC, LC-PREP, SQ-MS, IM-Q-TOF, MIR & FIR FT-IR, Chiral-SFC, 400 MHz NMR, desktop NMR)",
+    "invest": 0,
+    "investLabel": "—",
+    "url": "https://www.epfl.ch/research/facilities/swisscat/",
+    "sources": [
+      "https://www.epfl.ch/research/facilities/swisscat/publications-patents-conference-participation/",
+      "https://ch.linkedin.com/company/swisscatpluseast",
+      "https://www.chimia.ch/chimia/article/view/2023_154"
+    ],
+    "start": 2020
+  }
 ]

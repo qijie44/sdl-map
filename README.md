@@ -65,7 +65,7 @@ Large public-sector or trans-institutional SDL programmes with national or pan-r
 - [RIKEN / IST Maholo SDL](https://www.riken.jp/en/) - JST-funded national self-driving lab (Maholo robotic-arm platform) for closed-loop materials discovery, with a prototyping lab at RIKEN BDR Kobe and a demonstrator at Institute of Science Tokyo (Kobe, Japan · ~¥1.1B JST).
 - [AIST AUTOkobo](https://www.aist.go.jp/index_en.html) - AIST's Multi-Modal AI lab-automation initiative for autonomous experimentation, now spanning all seven AIST research departments (Tsukuba, Japan).
 - [ASCEND](https://ascend-project.berlin/) - BMFTR-funded consortium led by Helmholtz-Zentrum Berlin and the Fritz Haber Institute (with BASF, Siemens Energy, Dunia Innovations, and TU Berlin/BasCat) running AI-guided self-driving labs, high-throughput characterisation, and digital twins to accelerate catalyst discovery for sustainable chemistry (Berlin, Germany · €30M / 5 yrs).
-
+- [Swiss Cat+](https://www.epfl.ch/research/facilities/swisscat/) - ETH Domain-funded national catalysis infrastructure jointly operated by EPFL and ETH Zurich, combining robotic high-throughput experimentation, AI-guided experimental design, and automated workflows to enable self-driving laboratories for catalyst discovery and optimization across homogeneous and heterogeneous catalysis
 ---
 
 ## 🎓 Academic Groups
